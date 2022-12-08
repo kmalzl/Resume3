@@ -1,0 +1,60 @@
+body {
+background-color: rgb(116, 168, 186) ;
+font-family: 'Courier New', monospace;
+}
+
+img {width:500px;
+margin-left: 500px;
+}
+
+a { 
+    color: rgb(255, 253, 253)
+}
+
+#causes {border-style: solid;
+    width:fit-content;
+    margin-left: 520px;
+}
+
+#professional{
+
+    position:fixed;
+    background-color: rgb(0, 0, 0);
+}
+
+#heading-obesity{
+
+    margin-left: 600px;
+    background-color: beige;
+    width:fit-content
+}
+
+#video{
+
+    margin-left: 400px;
+    width:700px;
+    height: 400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
